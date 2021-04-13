@@ -1,0 +1,5 @@
+Credentials cache: API:2F4B85BB-1F05-4BBA-A369-690B035C8816
+        Principal: asebrech@42NICE.FR
+
+  Issued                Expires               Principal
+Feb  8 10:48:20 2021  Feb  8 20:48:20 2021  krbtgt/42NICE.FR@42NICE.FR
